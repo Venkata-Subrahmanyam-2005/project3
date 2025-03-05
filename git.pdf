@@ -1,0 +1,11 @@
+create the repository in the local.
+add all files
+now create the repository in the remote or hit account
+git add .
+git status
+git init
+git remote add origin git@github.com:Venkata-Subrahmanyam-2005/project3.git
+git remote -v
+git branch
+git branch -M main
+git push origin main
